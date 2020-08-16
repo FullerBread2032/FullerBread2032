@@ -1,14 +1,12 @@
-### Hi there, I'm Damian - aka [Pr][website] 👋
+### Hi there, I'm Programmind - 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a learning programmer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working!
 - 🌱 I’m currently learning python 🐍
 - 👨🏻‍💻 I like Capture The Flag
-- 🥅 2020 Goals: Learn programming languages ​​and start adventure with projects
+- 🥅 2020 Goals: Learn programming languages and start adventure with projects
 
 ### Languages and Tools:
 
