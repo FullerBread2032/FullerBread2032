@@ -1,4 +1,4 @@
-### Hi there, I'm Programmind - 👋
+### Hi there, I'm FullerBread2032 - 👋
 
 
 ## I'm a learning programmer!
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working!
 - 🌱 I’m currently learning python 🐍
 - 👨🏻‍💻 I like Capture The Flag
-- 🥅 2020 Goals: Learn programming languages and start adventure with projects
+- 🥅 2021 Goals: Learn programming languages and start adventure with projects
 
 ### Languages and Tools:
 
