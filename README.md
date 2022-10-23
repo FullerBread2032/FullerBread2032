@@ -23,12 +23,12 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Programmind's Github Stats" src="https://github-readme-stats.programminddev.vercel.app/api?username=ProgrammindDev&show_icons=true&hide_border=true" />
+  <img align="left" alt="Programmind's Github Stats" src="https://github-readme-stats.programminddev.vercel.app/api?username=FullerBread2032&show_icons=true&hide_border=true" />
 
 </details>
 <details>
   <summary>:zap: Most Used Languages</summary>
   
-  <img align="left" alt="Programmind's Most Used Languages" src="https://github-readme-stats.programminddev.vercel.app/api/top-langs/?username=ProgrammindDev&layout=compact" />
+  <img align="left" alt="Programmind's Most Used Languages" src="https://github-readme-stats.programminddev.vercel.app/api/top-langs/?username=FullerBread2032&layout=compact" />
 </details
 
